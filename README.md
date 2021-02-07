@@ -1,8 +1,16 @@
-# Zara
-Zara kyut
 <h1 align="center">
-  Dark-Cloning.py 
+  ZARATHUSTRA 
 </h1>
 </div>
 <p align="center">
-  Made with Kyut by <a href="https://github.com/Tech-abm">Zarathustra Zellweger</a>
+  Made with RPW by <a href="https://github.com/Tech-abm">Zarathustra Zellweger </a>
+
+ # Install 
+  ```
+  pkg update && apt upgrade 
+  pkg install python2 -y
+  pkg install git -y
+  rm -rf Abm-Tool
+  git clone https://github.com/Pushyx01/Zara
+  cd Zara 
+  python2 Cloning-tool.py 
