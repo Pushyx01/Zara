@@ -3,7 +3,7 @@
 </h1>
 </div>
 <p align="center">
-  Made with RPW by <a href="https://github.com/Tech-abm">Zarathustra Zellweger </a>
+  Made with RPW by <a href="https://github.com/Pushyx01">Zarathustra Zellweger </a>
 
  # Install 
   ```
